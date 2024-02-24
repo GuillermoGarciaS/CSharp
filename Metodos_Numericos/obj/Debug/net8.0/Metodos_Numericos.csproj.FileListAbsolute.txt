@@ -1,0 +1,14 @@
+C:\Users\eiven\OneDrive\Desktop\4to Semestre\Metodos_Numericos\obj\Debug\net8.0\Metodos_Numericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eiven\OneDrive\Desktop\4to Semestre\Metodos_Numericos\obj\Debug\net8.0\Metodos_Numericos.AssemblyInfoInputs.cache
+C:\Users\eiven\OneDrive\Desktop\4to Semestre\Metodos_Numericos\obj\Debug\net8.0\Metodos_Numericos.AssemblyInfo.cs
+C:\Users\eiven\OneDrive\Desktop\4to Semestre\Metodos_Numericos\obj\Debug\net8.0\Metodos_Numericos.csproj.CoreCompileInputs.cache
+C:\Users\eiven\OneDrive\Desktop\4to Semestre\Metodos_Numericos\bin\Debug\net8.0\Metodos_Numericos.exe
+C:\Users\eiven\OneDrive\Desktop\4to Semestre\Metodos_Numericos\bin\Debug\net8.0\Metodos_Numericos.deps.json
+C:\Users\eiven\OneDrive\Desktop\4to Semestre\Metodos_Numericos\bin\Debug\net8.0\Metodos_Numericos.runtimeconfig.json
+C:\Users\eiven\OneDrive\Desktop\4to Semestre\Metodos_Numericos\bin\Debug\net8.0\Metodos_Numericos.dll
+C:\Users\eiven\OneDrive\Desktop\4to Semestre\Metodos_Numericos\bin\Debug\net8.0\Metodos_Numericos.pdb
+C:\Users\eiven\OneDrive\Desktop\4to Semestre\Metodos_Numericos\obj\Debug\net8.0\Metodos_Numericos.dll
+C:\Users\eiven\OneDrive\Desktop\4to Semestre\Metodos_Numericos\obj\Debug\net8.0\refint\Metodos_Numericos.dll
+C:\Users\eiven\OneDrive\Desktop\4to Semestre\Metodos_Numericos\obj\Debug\net8.0\Metodos_Numericos.pdb
+C:\Users\eiven\OneDrive\Desktop\4to Semestre\Metodos_Numericos\obj\Debug\net8.0\Metodos_Numericos.genruntimeconfig.cache
+C:\Users\eiven\OneDrive\Desktop\4to Semestre\Metodos_Numericos\obj\Debug\net8.0\ref\Metodos_Numericos.dll
